@@ -1,11 +1,11 @@
 {
   "name": "vnext-cart",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Volusion",
   "main": [
-    "dist/vnext.cart.js",
-    "dist/vnext.cart.templates.js",
-    "dist/vnext.cart.less"
+    "vnext.cart.js",
+    "vnext.cart.templates.js",
+    "vnext.cart.less"
   ],
   "description": "The shopping cart application used in vnext themes",
   "keywords": [
