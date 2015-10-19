@@ -1,6 +1,6 @@
 {
   "name": "vnext-cart",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Volusion",
   "main": [
     "vnext.cart.js",
