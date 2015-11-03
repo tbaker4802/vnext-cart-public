@@ -1,6 +1,6 @@
 {
   "name": "vnext-cart",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": "Volusion",
   "main": [
     "vnext.cart.js",
@@ -24,8 +24,8 @@
   ],
   "dependencies": {
     "angular": "~1.4.0",
-    "font-awesome": "~4.3.0",
-    "angular-ui-bootstrap-bower": "~0.12.0",
+    "font-awesome": "~4.4.0",
+    "angular-ui-bootstrap-bower": "~0.13.0",
     "ng-lodash": "~0.1.0",
     "angular-aria": "~1.3.13",
     "vnext-components": "~0.0.4",
